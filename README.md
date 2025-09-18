@@ -1,7 +1,5 @@
 # Lab1
 
-**Course:** Bachelor of Informatics Management and Engineering
-
 ## Description
 
 This hands-on lab serves as students introduction to Flutter's widget system by building a static personal profile app. 
