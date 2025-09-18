@@ -54,7 +54,7 @@ You should see the default Flutter counter app. We'll replace this with our stat
 
 **Your Challenge:**
 1. Replace the contents of `lib/main.dart` to create a new app called "Static Profile App"
-2. Create a custom theme with deep purple colors and custom styling for AppBar, Cards, and text
+2. Create a custom theme with color of your choice and custom styling for AppBar, Cards, and text
 3. Create a `ProfilePage` as a `StatelessWidget` with an AppBar and placeholder body content
 
 **Example of Code:**
